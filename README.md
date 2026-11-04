@@ -4,6 +4,7 @@ We compared Ridge regression using grouped PCA features with histogram gradient 
 | --- | ---: |
 | Ridge with PCA summaries | $34,681.74 |
 | Histogram gradient boosting | $29,499.88 |
+
 We selected gradient boosting after it reduced validation RMSE by about 14.94%.
 **Files and reproduction**
 - Copy_of_Regression_Competition.ipynb: code and explanations.
