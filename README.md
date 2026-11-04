@@ -8,7 +8,7 @@ We compared Ridge regression using grouped PCA features with histogram gradient 
 We selected gradient boosting after it reduced validation RMSE by about 14.94%.
 **Files and reproduction**
 - Copy_of_Regression_Competition.ipynb: original code.
-- Regression_Competition_Commentary: code adjusted for readability and number reporting with added commentary.
+- Regression_Competition_Commentary.ipyb: code adjusted for readability and number reporting with added commentary.
 - data/README.md: required competition files and data placement.
 1. Install Python.
 2. Put the original competition train.csv, test.csv, and solns.csv in data/.
