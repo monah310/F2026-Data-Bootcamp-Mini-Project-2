@@ -1,4 +1,5 @@
 # F2026-Data-Bootcamp-Mini-Project-2
+Team: Salvador Inigo Lacuna, Mona Hong, Isla Laxa
 We compared Ridge regression using grouped PCA features with histogram gradient boosting using the original predictors, where both used the same 80/20 split (random_state=42) and five-fold cross-validation in the training portion.
 | Model | Recorded validation RMSE |
 | --- | ---: |
